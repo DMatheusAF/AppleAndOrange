@@ -59,8 +59,6 @@ class Solution
 {
     public static void Main(string[] args)
     {
-        string[] firstMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
-
         int s = 7;
 
         int t = 11;
